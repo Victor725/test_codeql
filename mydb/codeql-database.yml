@@ -1,0 +1,11 @@
+---
+sourceLocationPrefix: /Users/liuhangzhuo/Desktop/test_codeql/salt
+baselineLinesOfCode: 735447
+unicodeNewlines: false
+columnKind: utf32
+primaryLanguage: python
+creationMetadata:
+  sha: e4c1da4323f6334c0a14e9a68392a0c12a37e117
+  cliVersion: 2.17.4
+  creationTime: 2024-06-04T07:30:08.012768Z
+finalised: true
